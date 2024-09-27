@@ -137,11 +137,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Trigonometric_Equations_in_OpenGL.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sample.h" />
+    <ClInclude Include="Trigonometric_Equations_in_OpenGL.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

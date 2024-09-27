@@ -21,9 +21,12 @@
     <ClCompile Include="glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Trigonometric_Equations_in_OpenGL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sample.h">
+    <ClInclude Include="Trigonometric_Equations_in_OpenGL.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
