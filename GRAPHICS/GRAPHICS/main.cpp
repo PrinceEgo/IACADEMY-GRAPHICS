@@ -1,14 +1,8 @@
-
-void BasicSineAndCosine() {
-	float angle = glfwGetTime(); // Gets time-based angle
-	float x = sin(angle);        // Sine for horizontal movement
-	float y = cos(angle);        // Cosine for vertical movement
-
-}
+#include <iostream>
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
 
 int main() 
 {
-
-
 	return 0;
 }
